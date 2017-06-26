@@ -5,7 +5,8 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-linkify": "^0.2.1"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
